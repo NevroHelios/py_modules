@@ -29,6 +29,8 @@ Clone the repository and navigate to the desired module directory to explore the
 
 ```bash
 git clone https://github.com/NevroHelios/py_modules.git
+```
+```bash
 cd py_modules/<module_name>
 ```
 
@@ -38,13 +40,17 @@ If you'd like to contribute to this project, please follow these steps:
 ```bash
 # Fork the repository
 git clone https://github.com/NevroHelios/py_modules.git
+```
+```bash
 cd py_modules
+```
 git checkout -b <your_feature_branch>
 ```
 ```bash
 # Make your changes
 # ...
-
+```
+```bash
 # Submit a pull request
 git push origin <your_feature_branch>
 ```
